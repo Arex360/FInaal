@@ -11,8 +11,8 @@ public class ChatManger1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gameobject.SetActive(true);
-        chatRoom.SetActive(true);
+        //gameobject.SetActive(true);
+        //chatRoom.SetActive(true);
     }
 
     // Update is called once per frame
